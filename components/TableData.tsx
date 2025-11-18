@@ -180,7 +180,7 @@ function TableData() {
 
   return (
     <>
-      <Table striped bordered hover responsive="sm">
+      <Table striped bordered hover responsive="sm" className="text-center align-middle">
         <thead className="text-center">
           <tr>
             <th>Id</th>
