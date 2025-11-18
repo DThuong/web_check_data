@@ -222,7 +222,7 @@ function TableData() {
                     size="sm"
                     onClick={() => clearQrCode(row.id)}
                   >
-                    🗑️
+                    Delete
                   </Button>
                 )}
               </td>
